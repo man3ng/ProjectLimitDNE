@@ -1,7 +1,9 @@
 # ProjectLimitDNE
 Project: LimitDNE
 
-
+## First Deliverable
+- A simple site that has option for you to insert character that you are using. Max of 15 DP
+- A simple way to log the history of a session & store it locally for now -- if possible then use database
 ## Main Features
 - Store user information (self-inserted at this point in time)
   - W/L ratio, Characters Usage Ratio Details
@@ -13,3 +15,8 @@ Project: LimitDNE
     - 3-5 characters separate out by faction (Z, GT, Super, Ginyu Force, etc.) or total randomness
   - Team Battle
   - Can be implemented as a button in the 1 v 1 match session you created.
+
+
+
+### Need to figure out
+- How to get ingame data or does Bandai Namco has any API for developers to track?
