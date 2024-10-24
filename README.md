@@ -20,3 +20,7 @@ Project: LimitDNE
 
 ### Need to figure out
 - How to get ingame data or does Bandai Namco has any API for developers to track?
+
+
+### Interaction Idea
+- https://codepen.io/t_afif/pen/bGXRoOv
