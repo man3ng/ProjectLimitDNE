@@ -1,0 +1,1233 @@
+
+All Characters  Dragon Ball  Goku (Teen)
+Goku (Teen) 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Goku (Z - Early)
+Goku (Z - Early) 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Goku (Z - Mid)
+Goku (Z - Mid) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku (Z - Mid) Super Saiyan
+
+All Characters  Dragon Ball Z  Goku (Z - Mid) Super Saiyan
+Goku (Z - Mid) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Goku (Z - Mid)
+
+All Characters  Dragon Ball Z  Goku (Z - End)
+Goku (Z - End) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku (Z - End) Super Saiyan, Goku (Z - End) Super Saiyan 2, Goku (Z - End) Super Saiyan 3
+
+All Characters  Dragon Ball Z  Goku (Z- End) Super Saiyan
+Goku (Z- End) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Goku (Z - End), Goku (Z - End) Super Saiyan 2, Goku (Z - End) Super Saiyan 3
+
+All Characters  Dragon Ball Z  Goku (Z - End) Super Saiyan 2
+Goku (Z - End) Super Saiyan 2 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Goku (Z - End), Goku (Z - End) Super Saiyan 3
+
+All Characters  Dragon Ball Z  Goku (Z - End) Super Saiyan 3
+Goku (Z - End) Super Saiyan 3 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Goku (Z - End)
+
+All Characters  Dragon Ball Z  Vegeta (Z - Scouter)
+Vegeta (Z - Scouter) 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: Great Ape Vegeta
+
+All Characters  Dragon Ball Z  Great Ape Vegeta
+Great Ape Vegeta 1
+Image: Push Square
+Giant Character
+
+DP Cost: 5
+
+Transformations: Vegeta (Z - Scouter)
+
+All Characters  Dragon Ball Z  Vegeta (Z - Early)
+Vegeta (Z - Early) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Vegeta (Z - Early) Super Saiyan, Super Vegeta
+
+All Characters  Dragon Ball Z  Vegeta (Z - Early) Super Saiyan
+Vegeta (Z - Early) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Vegeta (Z - Early), Super Vegeta
+
+All Characters  Dragon Ball Z  Super Vegeta
+Super Vegeta 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Vegeta (Z - Early)
+
+All Characters  Dragon Ball Z  Vegeta (Z - End)
+Image: Push Square
+DP Cost: 5
+
+Transformations: Vegeta (Z - End) Super Saiyan, Vegeta (Z - End) Super Saiyan 2
+
+All Characters  Dragon Ball Z  Vegeta (Z- End) Super Saiyan
+Vegeta (Z- End) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Vegeta (Z - End), Vegeta (Z - End) Super Saiyan 2
+
+All Characters  Dragon Ball Z  Vegeta (Z - End) Super Saiyan 2
+Vegeta (Z - End) Super Saiyan 2 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Vegeta (Z - End)
+
+All Characters  Dragon Ball Z  Majin Vegeta
+Majin Vegeta 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Gohan (Kid)
+Gohan (Kid) 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Gohan (Teen)
+Gohan (Teen) 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: Gohan (Teen) Super Saiyan, Gohan (Teen) Super Saiyan 2
+
+All Characters  Dragon Ball Z  Gohan (Teen) Super Saiyan
+Gohan (Teen) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Gohan (Teen), Gohan (Teen) Super Saiyan 2
+
+All Characters  Dragon Ball Z  Gohan (Teen) Super Saiyan 2
+Gohan (Teen) Super Saiyan 2 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Gohan (Teen)
+
+All Characters  Dragon Ball Z  Gohan (Adult)
+Image: Push Square
+DP Cost: 4
+
+Transformations: Gohan (Adult) Super Saiyan, Gohan (Adult) Super Saiyan 2, Great Saiyaman
+
+All Characters  Dragon Ball Z  Gohan (Adult) Super Saiyan
+Gohan (Adult) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Gohan (Adult), Gohan (Adult) Super Saiyan 2
+
+All Characters  Dragon Ball Z  Gohan (Adult) Super Saiyan 2
+Gohan (Adult) Super Saiyan 2 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Gohan (Adult)
+
+All Characters  Dragon Ball Z  Great Saiyaman
+Image: Push Square
+DP Cost: 4
+
+Transformations: Gohan (Adult)
+
+All Characters  Dragon Ball Z  Ultimate Gohan
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Gohan (Future)
+Image: Push Square
+DP Cost: 5
+
+Transformations: Gohan (Future) Super Saiyan
+
+All Characters  Dragon Ball Z  Gohan (Future) Super Saiyan
+Image: Push Square
+DP Cost: 6
+
+Transformations: Gohan (Future)
+
+All Characters  Dragon Ball Z  Piccolo
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Piccolo (Fused with Kami)
+Piccolo (Fused with Kami) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Nail
+Nail 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Krillin
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Yamcha
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Tien
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Trunks (Sword)
+Image: Push Square
+DP Cost: 4
+
+Transformations: Trunks (Sword) Super Saiyan
+
+All Characters  Dragon Ball Z  Trunks (Sword) Super Saiyan
+Image: Push Square
+DP Cost: 6
+
+Transformations: Trunks (Sword)
+
+All Characters  Dragon Ball Z  Trunks (Melee)
+Image: Push Square
+DP Cost: 5
+
+Transformations: Trunks (Melee) Super Saiyan, Super Trunks
+
+All Characters  Dragon Ball Z  Trunks (Melee) Super Saiyan
+Image: Push Square
+DP Cost: 6
+
+Transformations: Trunks (Melee), Super Trunks
+
+All Characters  Dragon Ball Z  Super Trunks
+Super Trunks 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Trunks (Melee)
+
+All Characters  Dragon Ball Z  Trunks (Kid)
+Trunks (Kid) 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: Trunks (Kid) Super Saiyan
+
+All Characters  Dragon Ball Z  Trunks (Kid) Super Saiyan
+Image: Push Square
+DP Cost: 5
+
+Transformations: Trunks (Kid)
+
+All Characters  Dragon Ball Z  Goten
+Image: Push Square
+DP Cost: 4
+
+Transformations: Goten Super Saiyan
+
+All Characters  Dragon Ball Z  Goten Super Saiyan
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goten
+
+All Characters  Dragon Ball Z  Vegito
+Image: Push Square
+DP Cost: 7
+
+Transformations: Super Vegito, Vegito Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Z  Super Vegito
+Image: Push Square
+DP Cost: 8
+
+Transformations: Vegito, Vegito Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Z  Gotenks
+Image: Push Square
+DP Cost: 6
+
+Transformations: Gotenks Super Saiyan, Gotenks Super Saiyan 3
+
+All Characters  Dragon Ball Z  Gotenks Super Saiyan
+Image: Push Square
+DP Cost: 7
+
+Transformations: Gotenks, Gotenks Super Saiyan 3
+
+All Characters  Dragon Ball Z  Gotenks Super Saiyan 3
+Image: Push Square
+DP Cost: 8
+
+Transformations: Gotenks
+
+All Characters  Dragon Ball Z  Videl
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Master Roshi
+Image: Push Square
+DP Cost: 2
+
+Transformations: Master Roshi Max Power
+
+All Characters  Dragon Ball Z  Frieza (Z) 1st Form
+Image: Push Square
+DP Cost: 5
+
+Transformations: Frieza (Z) 2nd Form
+
+All Characters  Dragon Ball Z  Frieza (Z) 2nd Form
+Frieza (Z) 2nd Form 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Frieza (Z) 3rd Form
+
+All Characters  Dragon Ball Z  Frieza (Z) 3rd Form
+Frieza (Z) 3rd Form 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Frieza (Z) 4th Form
+
+All Characters  Dragon Ball Z  Frieza (Z) 4th Form
+Image: Push Square
+DP Cost: 6
+
+Transformations: Frieza (Z) Full Power
+
+All Characters  Dragon Ball Z  Frieza (Z) Full Power
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Mecha Frieza
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Cell 1st Form
+Cell 1st Form 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Cell 2nd Form
+
+All Characters  Dragon Ball Z  Cell 2nd Form
+Cell 2nd Form 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Cell Perfect Form
+
+All Characters  Dragon Ball Z  Cell Perfect Form
+Cell Perfect Form 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Perfect Cell
+Perfect Cell 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Cell Jr.
+Cell Jr. 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Majin Buu
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Majin Buu (Evil)
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Super Buu
+Super Buu 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Super Buu Gotenks Absorbed, Super Buu Gohan Absorbed
+
+All Characters  Dragon Ball Z  Super Buu Gotenks Absorbed
+Super Buu Gotenks Absorbed 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Super Buu Gohan Absorbed
+
+All Characters  Dragon Ball Z  Super Buu Gohan Absorbed
+Super Buu Gohan Absorbed
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Kid Buu
+Kid Buu
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Mr. Satan
+Mr. Satan 1
+Image: Push Square
+DP Cost: 1
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Chiaotzu
+Chiaotzu 1
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Yajirobe
+Yajirobe 1
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Raditz
+Raditz 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Saibaman
+Saibaman 1
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Nappa
+Nappa 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Zarbon
+Zarbon 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: Super Zarbon
+
+All Characters  Dragon Ball Z  Super Zarbon
+Super Zarbon 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: Zarbon
+
+All Characters  Dragon Ball Z  Dodoria
+Dodoria 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Cui
+Cui 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Captain Ginyu
+Captain Ginyu
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Recoome
+Recoome
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Burter
+Burter
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Jeice
+Jeice
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Guldo
+Guldo
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  King Cold
+King Cold
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Android 16
+Android 16
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Android 17 (Z)
+Android 17 (Z)
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Android 18
+Android 18
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Android 19
+Android 19 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Dr. Gero
+Dr. Gero 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Babidi
+Babidi 1
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Dabura
+Dabura 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Frieza Force Soldier
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z  Spopovich
+Spopovich 1
+Image: Push Square
+DP Cost: 2
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Super Gogeta (Z)
+Super Gogeta (Z) 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Bardock
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Broly (Z)
+Image: Push Square
+DP Cost: 5
+
+Transformations: Broly (Z) Super Saiyan, Broly (Z) Legendary Super Saiyan
+
+All Characters  Dragon Ball Z Films  Broly (Z) Super Saiyan
+Broly (Z) Super Saiyan 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Broly (Z) Legendary Super Saiyan
+
+All Characters  Dragon Ball Z Films  Broly (Z) Legendary Super Saiyan
+Broly (Z) Legendary Super Saiyan 1
+Image: Push Square
+DP Cost: 9
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Super Garlic Jr.
+Super Garlic Jr. 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Dr. Wheelo
+Dr. Wheelo 1
+Image: Push Square
+Giant Character
+
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Turles
+Turles 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Lord Slug
+Lord Slug 1
+Image: Push Square
+DP Cost: 4
+
+Transformations: Lord Slug Giant Form
+
+All Characters  Dragon Ball Z Films  Lord Slug Giant Form
+Image: Push Square
+Giant Character
+
+DP Cost: 6
+
+Transformations: None
+
+
+
+All Characters  Dragon Ball Z Films  Cooler
+Image: Push Square
+DP Cost: 6
+
+Transformations: Cooler Final Form
+
+All Characters  Dragon Ball Z Films  Cooler Final Form
+Cooler Final Form 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Metal Cooler
+Metal Cooler 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Android 13
+Image: Push Square
+DP Cost: 5
+
+Transformations: Fusion Android 13
+
+All Characters  Dragon Ball Z Films  Fusion Android 13
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Bojack
+Bojack 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Full-Power Bojack
+
+All Characters  Dragon Ball Z Films  Full-Power Bojack
+Full-Power Bojack 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Jamemba
+Jamemba 1
+Image: Push Square
+Giant Character
+
+DP Cost: 5
+
+Transformations: Super Janemba
+
+All Characters  Dragon Ball Z Films  Super Janemba
+Super Janemba 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Tapion
+Image: Push Square
+DP Cost: 4
+
+Transformations: None
+
+All Characters  Dragon Ball Z Films  Hirudegarn
+Image: Push Square
+Giant Character
+
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball GT  Goku (GT)
+Goku (GT) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku (GT) Super Saiyan, Goku (GT) Super Saiyan 3, Goku (GT) Super Saiyan 4
+
+All Characters  Dragon Ball GT  Goku (GT) Super Saiyan
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku (GT), Goku (GT) Super Saiyan 3, Goku (GT) Super Saiyan 4
+
+All Characters  Dragon Ball GT  Goku (GT) Super Saiyan 3
+Image: Push Square
+DP Cost: 7
+
+Transformations: Goku (GT), Goku (GT) Super Saiyan 4
+
+All Characters  Dragon Ball GT  Goku (GT) Super Saiyan 4
+Image: Push Square
+DP Cost: 8
+
+Transformations: Goku (GT)
+
+All Characters  Dragon Ball GT  Vegeta (GT) Super Saiyan 4
+Vegeta (GT) Super Saiyan 4 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball GT  Gogeta (GT) Super Saiyan 4
+Image: Push Square
+All Characters  Dragon Ball GT  Pan (GT)
+Image: Push Square
+DP Cost: 3
+
+Transformations: None
+
+All Characters  Dragon Ball GT  Uub (GT)
+Image: Push Square
+DP Cost: 4
+
+Transformations: Majuub (GT)
+
+All Characters  Dragon Ball GT  Majuub (GT)
+Majuub (GT) 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball GT  Baby Vegeta (GT)
+Baby Vegeta (GT) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Super Baby 1 (GT)
+
+All Characters  Dragon Ball GT  Super Baby 1 (GT)
+Super Baby 1 (GT) 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Super Baby 2 (GT)
+
+All Characters  Dragon Ball GT  Super Baby 2 (GT)
+Image: Push Square
+DP Cost: 7
+
+Transformations: Great Ape Baby (GT)
+
+All Characters  Dragon Ball GT  Great Ape Baby (GT)
+Image: Push Square
+Giant Character
+
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball GT  Syn Shenron (GT)
+Syn Shenron (GT) 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Omega Shenron (GT)
+
+All Characters  Dragon Ball GT  Omega Shenron (GT)
+Omega Shenron (GT) 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Goku (Super)
+Goku (Super) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku (Super) Super Saiyan, Goku (Super) Super Saiyan God, Goku (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Goku (Super) Super Saiyan
+Goku (Super) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Goku (Super), Goku (Super) Super Saiyan God, Goku (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Goku (Super) Super Saiyan God
+Goku (Super) Super Saiyan God 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Goku (Super), Goku (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Goku (Super) Super Saiyan God Super Saiyan
+Image: Push Square
+DP Cost: 8
+
+Transformations: Goku (Super)
+
+All Characters  Dragon Ball Super  Goku (Super) Ultra Instinct -Sign-
+Image: Push Square
+DP Cost: 8
+
+Transformations: Goku (Super) Ultra Instinct
+
+All Characters  Dragon Ball Super  Goku (Super) Ultra Instinct
+Image: Push Square
+DP Cost: 9
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Vegeta (Super)
+Image: Push Square
+DP Cost: 5
+
+Transformations: Vegeta (Super) Super Saiyan, Vegeta (Super) Super Saiyan God, Vegeta (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Vegeta (Super) Super Saiyan
+Vegeta (Super) Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Vegeta (Super), Vegeta (Super) Super Saiyan God, Vegeta (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Vegeta (Super) Super Saiyan God
+Vegeta (Super) Super Saiyan God 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Vegeta (Super), Vegeta (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Vegeta (Super) Super Saiyan God Super Saiyan
+Image: Push Square
+DP Cost: 8
+
+Transformations: Vegeta (Super)
+
+All Characters  Dragon Ball Super  Future Trunks
+Image: Push Square
+DP Cost: 5
+
+Transformations: Future Trunks Super Saiyan
+
+All Characters  Dragon Ball Super  Future Trunks Super Saiyan
+Future Trunks Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Future Trunks
+
+All Characters  Dragon Ball Super  Vegito Super Saiyan God Super Saiyan
+Vegito Super Saiyan God Super Saiyan 1
+Image: Push Square
+DP Cost: 10
+
+Transformations: Vegito
+
+All Characters  Dragon Ball Super  Gogeta (Super)
+Gogeta (Super) 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Gogeta (Super) Super Saiyan, Gogeta (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Gogeta (Super) Super Saiyan
+Gogeta (Super) Super Saiyan 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Gogeta (Super), Gogeta (Super) Super Saiyan God Super Saiyan
+
+All Characters  Dragon Ball Super  Gogeta (Super) Super Saiyan God Super Saiyan
+Gogeta (Super) Super Saiyan God Super Saiyan 1
+Image: Push Square
+DP Cost: 10
+
+Transformations: Gogeta (Super)
+
+All Characters  Dragon Ball Super  Master Roshi Max Power
+Master Roshi Max Power 1
+Image: Push Square
+DP Cost: 2
+
+Transformations: Master Roshi
+
+All Characters  Dragon Ball Super  Frieza (Super)
+Frieza (Super) 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Golden Frieza
+
+All Characters  Dragon Ball Super  Golden Frieza
+Golden Frieza 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Frieza (Super)
+
+All Characters  Dragon Ball Super  Android 17 (Super)
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Broly (Super)
+Broly (Super) 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Broly (Super) Super Saiyan, Broly (Super) Super Saiyan Full Power
+
+All Characters  Dragon Ball Super  Broly (Super) Super Saiyan
+Broly (Super) Super Saiyan 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Broly (Super) Super Saiyan Full Power
+
+All Characters  Dragon Ball Super  Broly (Super) Super Saiyan Full Power
+Broly (Super) Super Saiyan Full Power 1
+Image: Push Square
+DP Cost: 9
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Beerus
+Beerus 1
+Image: Push Square
+DP Cost: 10
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Whis
+Whis 1
+Image: Push Square
+DP Cost: 10
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Goku Black
+Goku Black 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Goku Black Super Saiyan Rose
+
+All Characters  Dragon Ball Super  Goku Black (Super Saiyan Rose)
+Goku Black (Super Saiyan Rose) 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Goku Black
+
+All Characters  Dragon Ball Super  Zamasu
+Zamasu 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Fused Zamasu
+Fused Zamasu 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Fused Zamasu Half-Corrupted
+
+All Characters  Dragon Ball Super  Fused Zamasu Half-Corrupted
+Fused Zamasu Half-Corrupted 1
+Image: Push Square
+DP Cost: 9
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Hit
+Hit 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Frost
+Frost 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Cabba
+Cabba 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Cabba Super Saiyan, Cabba Super Saiyan 2
+
+All Characters  Dragon Ball Super  Cabba Super Saiyan
+Cabba Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Cabba, Cabba Super Saiyan 2
+
+All Characters  Dragon Ball Super  Cabba Super Saiyan 2
+Cabba Super Saiyan 2 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Cabba
+
+All Characters  Dragon Ball Super  Caulifla
+Caulifla 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Caulifla Super Saiyan 2
+
+All Characters  Dragon Ball Super  Caulifla Super Saiyan 2
+Caulifla Super Saiyan 2 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Caulifla
+
+All Characters  Dragon Ball Super  Kale
+Kale 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: Kale Super Saiyan (Berserk), Kale Super Saiyan
+
+All Characters  Dragon Ball Super  Kale Super Saiyan (Berserk)
+Kale Super Saiyan (Berserk) 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Kale Super Saiyan
+Kale Super Saiyan 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Kale
+
+All Characters  Dragon Ball Super  Kefla
+Kefla 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: Kefla Super Saiyan, Kefla Super Saiyan 2
+
+All Characters  Dragon Ball Super  Kefla Super Saiyan
+Kefla Super Saiyan 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Kefla, Kefla Super Saiyan 2
+
+All Characters  Dragon Ball Super  Kefla Super Saiyan 2
+Kefla Super Saiyan 2 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Kefla
+
+All Characters  Dragon Ball Super  Jiren
+Jiren 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: Jiren Full Power
+
+All Characters  Dragon Ball Super  Jiren Full Power
+Jiren Full Power 1
+Image: Push Square
+DP Cost: 9
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Toppo
+Toppo 1
+Image: Push Square
+DP Cost: 7
+
+Transformations: Toppo God of Destruction
+
+All Characters  Dragon Ball Super  Toppo God of Destruction
+Toppo God of Destruction 1
+Image: Push Square
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Dyspo
+Dyspo 1
+Image: Push Square
+DP Cost: 6
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Bergamo
+Bergamo 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Ribrianne
+Ribrianne 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Kakunsa
+Kakunsa 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Roasie
+Roasie 1
+Image: Push Square
+DP Cost: 5
+
+Transformations: None
+
+All Characters  Dragon Ball Super  Anilaza
+Anilaza 1
+Image: Push Square
+Giant Character
+
+DP Cost: 8
+
+Transformations: None
+
+All Characters  Dragon Ball Daima  Goku (Mini)
+Goku (Mini) 1
+Image: Push Square
+
+DP Cost: 4
+
+Transformations: None

@@ -24,3 +24,8 @@ Project: LimitDNE
 
 ### Interaction Idea
 - https://codepen.io/t_afif/pen/bGXRoOv
+
+
+### Secret
+6HI3AwMenTkMziUz
+mongodb+srv://admin:6HI3AwMenTkMziUz@limitdne-database.jsttt.mongodb.net/

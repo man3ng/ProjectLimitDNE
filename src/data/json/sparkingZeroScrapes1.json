@@ -1,0 +1,688 @@
+[
+
+  {
+    "Name": "Goku",
+    "Series": "Z – Early"
+  },
+  {
+    "Name": "Goku",
+    "Series": "Z – Mid"
+  },
+  {
+    "Name": "Goku",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Super Saiyan Goku",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Super Saiyan 2 Goku",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Super Saiyan 3 Goku",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Goku",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Goku",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan God Goku",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan God Super Saiyan Goku",
+    "Series": "Super"
+  },
+  {
+    "Name": "Scouter Vegeta",
+    "Series": "Z – Early"
+  },
+  {
+    "Name": "Great Ape Vegeta",
+    "Series": "Z"
+  },
+  {
+    "Name": "Vegeta",
+    "Series": "Z – Early"
+  },
+  {
+    "Name": "Super Saiyan Vegeta",
+    "Series": "Z – Mid"
+  },
+  {
+    "Name": "Super Vegeta",
+    "Series": "Z"
+  },
+  {
+    "Name": "Vegeta",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Super Saiyan Vegeta",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Super Saiyan 2 Vegeta",
+    "Series": "Z – End"
+  },
+  {
+    "Name": "Majin Vegeta",
+    "Series": "Z"
+  },
+  {
+    "Name": "Vegeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Vegeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan God Vegeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan God Super Saiyan Vegeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Broly",
+    "Series": "Super"
+  },
+  {
+    "Name": "Legendary Super Saiyan Broly",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Broly Full Power",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Trunks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Trunks (Melee)",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Future Trunks",
+    "Series": "Super"
+  },
+  {
+    "Name": "Perfect Cell",
+    "Series": "Z"
+  },
+  {
+    "Name": "Majin Buu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Jiren",
+    "Series": "Super"
+  },
+  {
+    "Name": "Android 17",
+    "Series": "Super"
+  },
+  {
+    "Name": "Android 18",
+    "Series": "Z"
+  },
+  {
+    "Name": "Piccolo",
+    "Series": "Z"
+  },
+  {
+    "Name": "Krillin",
+    "Series": "Z"
+  },
+  {
+    "Name": "Yamcha",
+    "Series": "Z"
+  },
+  {
+    "Name": "Tien",
+    "Series": "Z"
+  },
+  {
+    "Name": "Hercule",
+    "Series": "Z"
+  },
+  {
+    "Name": "Bergamo",
+    "Series": "Super"
+  },
+  {
+    "Name": "Master Roshi Max Power",
+    "Series": "Super"
+  },
+  {
+    "Name": "Nappa",
+    "Series": "Z"
+  },
+  {
+    "Name": "Burter",
+    "Series": "Z"
+  },
+  {
+    "Name": "Jeice",
+    "Series": "Z"
+  },
+  {
+    "Name": "Hit",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Kale (Berserk)",
+    "Series": "Super"
+  },
+  {
+    "Name": "Toppo",
+    "Series": "Super"
+  },
+  {
+    "Name": "Dyspo",
+    "Series": "Super"
+  },
+  {
+    "Name": "Kakunsa",
+    "Series": "Super"
+  },
+  {
+    "Name": "Kid Trunks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Kid Trunks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Caulifa",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Caulifa",
+    "Series": "Super"
+  },
+  {
+    "Name": "Goten",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Goten",
+    "Series": "Z"
+  },
+  {
+    "Name": "Kale",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Kale",
+    "Series": "Super"
+  },
+  {
+    "Name": "Gotenks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Gotenks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan 3 Gotenks",
+    "Series": "Z"
+  },
+  {
+    "Name": "Kefla",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Kefla",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan 2 Kefla",
+    "Series": "Super"
+  },
+  {
+    "Name": "Vegito",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan God Super Saiyan Vegito",
+    "Series": "Super"
+  },
+  {
+    "Name": "Gogeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan Gogeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan God Super Saiyan Gogeta",
+    "Series": "Super"
+  },
+  {
+    "Name": "Fused Zamasu",
+    "Series": "Super"
+  },
+  {
+    "Name": "Fused Zamasu (Half-Corrupted)",
+    "Series": "Super"
+  },
+  {
+    "Name": "Ultra Instinct Goku (Super)",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan 2 Adult Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Golden Frieza",
+    "Series": "Super"
+  },
+  {
+    "Name": "Bardock",
+    "Series": "Z"
+  },
+  {
+    "Name": "Raditz",
+    "Series": "Z"
+  },
+  {
+    "Name": "Goku Black",
+    "Series": "Super"
+  },
+  {
+    "Name": "Zamasu",
+    "Series": "Super"
+  },
+  {
+    "Name": "Full Power Jiren",
+    "Series": "Super"
+  },
+  {
+    "Name": "Ultra Instinct -Sign- Goku",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Vegito",
+    "Series": "Z"
+  },
+  {
+    "Name": "Yajirobe",
+    "Series": "Z"
+  },
+  {
+    "Name": "Dabura",
+    "Series": "Z"
+  },
+  {
+    "Name": "Spopovich",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Rosé Goku Black",
+    "Series": "Super"
+  },
+  {
+    "Name": "Future Trunks",
+    "Series": "Super"
+  },
+  {
+    "Name": "Ribrianne",
+    "Series": "Super"
+  },
+  {
+    "Name": "Roasie",
+    "Series": "Super"
+  },
+  {
+    "Name": "Anilaza",
+    "Series": "Super"
+  },
+  {
+    "Name": "Nail",
+    "Series": "Z"
+  },
+  {
+    "Name": "First Form Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Second Form Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Third Form Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Forth Form Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Full Power Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Chiaotzu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Saibaman",
+    "Series": "Z"
+  },
+  {
+    "Name": "Zarbon",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Zarbon",
+    "Series": "Z"
+  },
+  {
+    "Name": "Dodoria",
+    "Series": "Z"
+  },
+  {
+    "Name": "Cui",
+    "Series": "Z"
+  },
+  {
+    "Name": "Ginyu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Recoome",
+    "Series": "Z"
+  },
+  {
+    "Name": "Guldo",
+    "Series": "Z"
+  },
+  {
+    "Name": "Teen Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Teen Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan 2 Teen Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Trunks (Melee)",
+    "Series": "Z"
+  },
+  {
+    "Name": "Android 17",
+    "Series": "Z"
+  },
+  {
+    "Name": "Android 16",
+    "Series": "Z"
+  },
+  {
+    "Name": "Android 19",
+    "Series": "Z"
+  },
+  {
+    "Name": "Dr. Gero",
+    "Series": "Z"
+  },
+  {
+    "Name": "First Form Cell",
+    "Series": "Z"
+  },
+  {
+    "Name": "Second Form Cell",
+    "Series": "Z"
+  },
+  {
+    "Name": "Perfect Cell",
+    "Series": "Z"
+  },
+  {
+    "Name": "Cell Jr.",
+    "Series": "Z"
+  },
+  {
+    "Name": "Piccolo Fused With Kami",
+    "Series": "Z"
+  },
+  {
+    "Name": "King Cold",
+    "Series": "Z"
+  },
+  {
+    "Name": "Mecha Frieza",
+    "Series": "Z"
+  },
+  {
+    "Name": "Great Saiyaman",
+    "Series": "Z"
+  },
+  {
+    "Name": "Adult Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Ultimate Gohan",
+    "Series": "Z"
+  },
+  {
+    "Name": "Babidi",
+    "Series": "Z"
+  },
+  {
+    "Name": "Evil Majin Buu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Buu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Buu (Gotenks Absorbed)",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Buu (Gohan Absorbed)",
+    "Series": "Z"
+  },
+  {
+    "Name": "Kid Buu",
+    "Series": "Z"
+  },
+  {
+    "Name": "Pan",
+    "Series": "GT"
+  },
+  {
+    "Name": "Kid Goku",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Saiyan Kid Goku",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Saiyan 3 Kid Goku",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Saiyan 4 Goku",
+    "Series": "GT"
+  },
+  {
+    "Name": "Baby Vegeta",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Baby 1",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Baby 2",
+    "Series": "GT"
+  },
+  {
+    "Name": "Great Ape Baby",
+    "Series": "GT"
+  },
+  {
+    "Name": "Uub",
+    "Series": "GT"
+  },
+  {
+    "Name": "Majuub",
+    "Series": "GT"
+  },
+  {
+    "Name": "Syn Shenron",
+    "Series": "GT"
+  },
+  {
+    "Name": "Omega Shenron",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Saiyan 4 Vegeta",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Saiyan 4 Gogeta",
+    "Series": "GT"
+  },
+  {
+    "Name": "Super Gogeta",
+    "Series": "Z"
+  },
+  {
+    "Name": "Teen Goku",
+    "Series": "Z"
+  },
+  {
+    "Name": "Frieza Force Soldier",
+    "Series": "Z"
+  },
+  {
+    "Name": "Frost",
+    "Series": "Z"
+  },
+  {
+    "Name": "Cooler",
+    "Series": "Z"
+  },
+  {
+    "Name": "Final Form Cooler",
+    "Series": "Z"
+  },
+  {
+    "Name": "Metal Cooler",
+    "Series": "Z"
+  },
+  {
+    "Name": "Cabba",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan 1 Cabba",
+    "Series": "Super"
+  },
+  {
+    "Name": "Super Saiyan 2 Cabba",
+    "Series": "Super"
+  },
+  {
+    "Name": "God of Destruction Toppo",
+    "Series": "Super"
+  },
+  {
+    "Name": "Broly",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Saiyan Broly",
+    "Series": "Z"
+  },
+  {
+    "Name": "Legendary Super Saiyan Broly",
+    "Series": "Z"
+  },
+  {
+    "Name": "Android 13",
+    "Series": "Z"
+  },
+  {
+    "Name": "Fusion Android 13",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Garlic Jr",
+    "Series": "Z"
+  },
+  {
+    "Name": "Dr. Wheelo",
+    "Series": "Z"
+  },
+  {
+    "Name": "Lord Slug",
+    "Series": "Z"
+  },
+  {
+    "Name": "Giant Form Lord Slug",
+    "Series": "Z"
+  },
+  {
+    "Name": "Turles",
+    "Series": "Z"
+  },
+  {
+    "Name": "Bojack",
+    "Series": "Z"
+  },
+  {
+    "Name": "Full-Power Bojack",
+    "Series": "Z"
+  },
+  {
+    "Name": "Hirudegarn",
+    "Series": "Z"
+  },
+  {
+    "Name": "Tapion",
+    "Series": "Z"
+  },
+  {
+    "Name": "Janemba",
+    "Series": "Z"
+  },
+  {
+    "Name": "Super Janemba",
+    "Series": "Z"
+  },
+  {
+    "Name": "Mini Goku",
+    "Series": "Daima"
+  }
+]
+

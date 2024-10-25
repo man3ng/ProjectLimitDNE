@@ -1,0 +1,1452 @@
+[
+  {
+    "series": "Dragon Ball",
+    "name": "Goku (Teen)",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - Early)",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - Mid)",
+    "dpCost": 5,
+    "transformations": [
+      "Goku (Z - Mid) Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - Mid) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Goku (Z - Mid)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - End)",
+    "dpCost": 5,
+    "transformations": [
+      "Goku (Z - End) Super Saiyan",
+      "Goku (Z - End) Super Saiyan 2",
+      "Goku (Z - End) Super Saiyan 3"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z- End) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Goku (Z - End)",
+      "Goku (Z - End) Super Saiyan 2",
+      "Goku (Z - End) Super Saiyan 3"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - End) Super Saiyan 2",
+    "dpCost": 6,
+    "transformations": [
+      "Goku (Z - End)",
+      "Goku (Z - End) Super Saiyan 3"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Goku (Z - End) Super Saiyan 3",
+    "dpCost": 7,
+    "transformations": [
+      "Goku (Z - End)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Vegeta (Z - Scouter)",
+    "dpCost": 4,
+    "transformations": [
+      "Great Ape Vegeta"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Great Ape Vegeta",
+    "specialType": "Giant",
+    "dpCost": 5,
+    "transformations": [
+      "Vegeta (Z - Scouter)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Vegeta (Z - Early)",
+    "dpCost": 5,
+    "transformations": [
+      "Vegeta (Z - Early) Super Saiyan",
+      "Super Vegeta"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Vegeta (Z - Early) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Vegeta (Z - Early)",
+      "Super Vegeta"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Vegeta",
+    "dpCost": 6,
+    "transformations": [
+      "Vegeta (Z - Early)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Vegeta (Z - End) Super Saiyan",
+      "Vegeta (Z - End) Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Vegeta (Z- End) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Vegeta (Z - End)",
+      "Vegeta (Z - End) Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Vegeta (Z - End) Super Saiyan 2",
+    "dpCost": 6,
+    "transformations": [
+      "Vegeta (Z - End)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Majin Vegeta",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Kid)",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Teen)",
+    "dpCost": 4,
+    "transformations": [
+      "Gohan (Teen) Super Saiyan",
+      "Gohan (Teen) Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Teen) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Gohan (Teen)",
+      "Gohan (Teen) Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Teen) Super Saiyan 2",
+    "dpCost": 7,
+    "transformations": [
+      "Gohan (Teen)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "Gohan (Adult) Super Saiyan",
+      "Gohan (Adult) Super Saiyan 2",
+      "Great Saiyaman"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Adult) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Gohan (Adult)",
+      "Gohan (Adult) Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Gohan (Adult) Super Saiyan 2",
+    "dpCost": 7,
+    "transformations": [
+      "Gohan (Adult)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "Gohan (Adult)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Gohan (Future) Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "Gohan (Future)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Piccolo (Fused with Kami)",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Nail",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "Trunks (Sword) Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "Trunks (Sword)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Trunks (Melee) Super Saiyan",
+      "Super Trunks"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "Trunks (Melee)",
+      "Super Trunks"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Trunks",
+    "dpCost": 6,
+    "transformations": [
+      "Trunks (Melee)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Trunks (Kid)",
+    "dpCost": 4,
+    "transformations": [
+      "Trunks (Kid) Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Trunks (Kid)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 4,
+    "transformations": [
+      "Goten Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Goten"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 7,
+    "transformations": [
+      "Super Vegito",
+      "Vegito Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 8,
+    "transformations": [
+      "Vegito",
+      "Vegito Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "Gotenks Super Saiyan",
+      "Gotenks Super Saiyan 3"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 7,
+    "transformations": [
+      "Gotenks",
+      "Gotenks Super Saiyan 3"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 8,
+    "transformations": [
+      "Gotenks"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 2,
+    "transformations": [
+      "Master Roshi Max Power"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 5,
+    "transformations": [
+      "Frieza (Z) 2nd Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Frieza (Z) 2nd Form",
+    "dpCost": 5,
+    "transformations": [
+      "Frieza (Z) 3rd Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Frieza (Z) 3rd Form",
+    "dpCost": 5,
+    "transformations": [
+      "Frieza (Z) 4th Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "Frieza (Z) Full Power"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Cell 1st Form",
+    "dpCost": 5,
+    "transformations": [
+      "Cell 2nd Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Cell 2nd Form",
+    "dpCost": 5,
+    "transformations": [
+      "Cell Perfect Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Cell Perfect Form",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Perfect Cell",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Cell Jr.",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Buu",
+    "dpCost": 6,
+    "transformations": [
+      "Super Buu Gotenks Absorbed",
+      "Super Buu Gohan Absorbed"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Buu Gotenks Absorbed",
+    "dpCost": 7,
+    "transformations": [
+      "Super Buu Gohan Absorbed"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Buu Gohan Absorbed",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Kid Buu",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Mr. Satan",
+    "dpCost": 1,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Chiaotzu",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Yajirobe",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Raditz",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Saibaman",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Nappa",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Zarbon",
+    "dpCost": 3,
+    "transformations": [
+      "Super Zarbon"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Super Zarbon",
+    "dpCost": 3,
+    "transformations": [
+      "Zarbon"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Dodoria",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Cui",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Captain Ginyu",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Recoome",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Burter",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Jeice",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Guldo",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "King Cold",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Android",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Android 17 (Z)",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Android",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Android 19",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Dr. Gero",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Babidi",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Dabura",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z",
+    "name": "Spopovich",
+    "dpCost": 2,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Super Gogeta (Z)",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 5,
+    "transformations": [
+      "Broly (Z) Super Saiyan",
+      "Broly (Z) Legendary Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Broly (Z) Super Saiyan",
+    "dpCost": 7,
+    "transformations": [
+      "Broly (Z) Legendary Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Broly (Z) Legendary Super Saiyan",
+    "dpCost": 9,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Super Garlic Jr.",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Dr. Wheelo",
+    "specialType": "Giant",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Turles",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Lord Slug",
+    "dpCost": 4,
+    "transformations": [
+      "Lord Slug Giant Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "specialType": "Giant",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 6,
+    "transformations": [
+      "Cooler Final Form"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Cooler Final Form",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Metal Cooler",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 5,
+    "transformations": [
+      "Fusion Android 13"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Bojack",
+    "dpCost": 5,
+    "transformations": [
+      "Full-Power Bojack"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Full-Power Bojack",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Jamemba",
+    "specialType": "Giant",
+    "dpCost": 5,
+    "transformations": [
+      "Super Janemba"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "name": "Super Janemba",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Z Films",
+    "specialType": "Giant",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Goku (GT)",
+    "dpCost": 5,
+    "transformations": [
+      "Goku (GT) Super Saiyan",
+      "Goku (GT) Super Saiyan 3",
+      "Goku (GT) Super Saiyan 4"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 5,
+    "transformations": [
+      "Goku (GT)",
+      "Goku (GT) Super Saiyan 3",
+      "Goku (GT) Super Saiyan 4"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 7,
+    "transformations": [
+      "Goku (GT)",
+      "Goku (GT) Super Saiyan 4"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 8,
+    "transformations": [
+      "Goku (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Vegeta (GT) Super Saiyan 4",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT"
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 3,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 4,
+    "transformations": [
+      "Majuub (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Majuub (GT)",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Baby Vegeta (GT)",
+    "dpCost": 5,
+    "transformations": [
+      "Super Baby 1 (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Super Baby 1 (GT)",
+    "dpCost": 6,
+    "transformations": [
+      "Super Baby 2 (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "dpCost": 7,
+    "transformations": [
+      "Great Ape Baby (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "specialType": "Giant",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Syn Shenron (GT)",
+    "dpCost": 7,
+    "transformations": [
+      "Omega Shenron (GT)"
+    ]
+  },
+  {
+    "series": "Dragon Ball GT",
+    "name": "Omega Shenron (GT)",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Goku (Super)",
+    "dpCost": 5,
+    "transformations": [
+      "Goku (Super) Super Saiyan",
+      "Goku (Super) Super Saiyan God",
+      "Goku (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Goku (Super) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Goku (Super)",
+      "Goku (Super) Super Saiyan God",
+      "Goku (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Goku (Super) Super Saiyan God",
+    "dpCost": 7,
+    "transformations": [
+      "Goku (Super)",
+      "Goku (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 8,
+    "transformations": [
+      "Goku (Super)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 8,
+    "transformations": [
+      "Goku (Super) Ultra Instinct"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 9,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 5,
+    "transformations": [
+      "Vegeta (Super) Super Saiyan",
+      "Vegeta (Super) Super Saiyan God",
+      "Vegeta (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Vegeta (Super) Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Vegeta (Super)",
+      "Vegeta (Super) Super Saiyan God",
+      "Vegeta (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Vegeta (Super) Super Saiyan God",
+    "dpCost": 7,
+    "transformations": [
+      "Vegeta (Super)",
+      "Vegeta (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 8,
+    "transformations": [
+      "Vegeta (Super)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 5,
+    "transformations": [
+      "Future Trunks Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Future Trunks Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Future Trunks"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Vegito Super Saiyan God Super Saiyan",
+    "dpCost": 10,
+    "transformations": [
+      "Vegito"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Gogeta (Super)",
+    "dpCost": 7,
+    "transformations": [
+      "Gogeta (Super) Super Saiyan",
+      "Gogeta (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Gogeta (Super) Super Saiyan",
+    "dpCost": 8,
+    "transformations": [
+      "Gogeta (Super)",
+      "Gogeta (Super) Super Saiyan God Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Gogeta (Super) Super Saiyan God Super Saiyan",
+    "dpCost": 10,
+    "transformations": [
+      "Gogeta (Super)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Master Roshi Max Power",
+    "dpCost": 2,
+    "transformations": [
+      "Master Roshi"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Frieza (Super)",
+    "dpCost": 6,
+    "transformations": [
+      "Golden Frieza"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Golden Frieza",
+    "dpCost": 8,
+    "transformations": [
+      "Frieza (Super)"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Broly (Super)",
+    "dpCost": 5,
+    "transformations": [
+      "Broly (Super) Super Saiyan",
+      "Broly (Super) Super Saiyan Full Power"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Broly (Super) Super Saiyan",
+    "dpCost": 7,
+    "transformations": [
+      "Broly (Super) Super Saiyan Full Power"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Broly (Super) Super Saiyan Full Power",
+    "dpCost": 9,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Beerus",
+    "dpCost": 10,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Whis",
+    "dpCost": 10,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Goku Black",
+    "dpCost": 5,
+    "transformations": [
+      "Goku Black Super Saiyan Rose"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Goku Black (Super Saiyan Rose)",
+    "dpCost": 8,
+    "transformations": [
+      "Goku Black"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Zamasu",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Fused Zamasu",
+    "dpCost": 8,
+    "transformations": [
+      "Fused Zamasu Half-Corrupted"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Fused Zamasu Half-Corrupted",
+    "dpCost": 9,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Hit",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Frost",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Cabba",
+    "dpCost": 5,
+    "transformations": [
+      "Cabba Super Saiyan",
+      "Cabba Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Cabba Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Cabba",
+      "Cabba Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Cabba Super Saiyan 2",
+    "dpCost": 7,
+    "transformations": [
+      "Cabba"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Caulifla",
+    "dpCost": 5,
+    "transformations": [
+      "Caulifla Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Caulifla Super Saiyan 2",
+    "dpCost": 7,
+    "transformations": [
+      "Caulifla"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kale",
+    "dpCost": 5,
+    "transformations": [
+      "Kale Super Saiyan (Berserk)",
+      "Kale Super Saiyan"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kale Super Saiyan (Berserk)",
+    "dpCost": 7,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kale Super Saiyan",
+    "dpCost": 6,
+    "transformations": [
+      "Kale"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kefla",
+    "dpCost": 6,
+    "transformations": [
+      "Kefla Super Saiyan",
+      "Kefla Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kefla Super Saiyan",
+    "dpCost": 7,
+    "transformations": [
+      "Kefla",
+      "Kefla Super Saiyan 2"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kefla Super Saiyan 2",
+    "dpCost": 8,
+    "transformations": [
+      "Kefla"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Jiren",
+    "dpCost": 8,
+    "transformations": [
+      "Jiren Full Power"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Jiren Full Power",
+    "dpCost": 9,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Toppo",
+    "dpCost": 7,
+    "transformations": [
+      "Toppo God of Destruction"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Toppo God of Destruction",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Dyspo",
+    "dpCost": 6,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Bergamo",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Ribrianne",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Kakunsa",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Roasie",
+    "dpCost": 5,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Super",
+    "name": "Anilaza",
+    "specialType": "Giant",
+    "dpCost": 8,
+    "transformations": [
+      "None"
+    ]
+  },
+  {
+    "series": "Dragon Ball Daima",
+    "name": "Goku (Mini)",
+    "dpCost": 4,
+    "transformations": [
+      "None"
+    ]
+  }
+]
